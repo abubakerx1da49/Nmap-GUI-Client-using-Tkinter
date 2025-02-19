@@ -4,4 +4,4 @@ This is a simple graphical user interface (GUI) client for Nmap built with Pytho
 
 ---
 
-![screenshot](https://github.com/abubakerx1da49/Nmap-GUI-Client-using-Tkinter/blob/main/assets/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/abubakerx1da49/Nmap-GUI-Client-using-Tkinter/refs/heads/main/assets/screenshot.png)
